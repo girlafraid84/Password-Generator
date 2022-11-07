@@ -23,6 +23,7 @@ p {
 
 button {
     color: white;
+    font-family: 'Inter', sans-serif;
     background-color: #10B981;
     border: none;
     border-radius: 3px;
@@ -51,4 +52,5 @@ button {
     border-radius: 6px;
     margin-left: 10px;
     margin-right: 10px;
+    font-family: 'Inter', sans-serif;
 }
